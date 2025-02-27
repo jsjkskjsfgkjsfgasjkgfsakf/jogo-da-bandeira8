@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fase 01</title>
+</head>
+<body bgcolor="cyan">
+<center>
+<h1>Qual é a bandeira?</h1>
+<h2>Japão</h2>
+<a href="erro.html">
+<img src="brasil.png" width="400" height="250">
+</a>
+<a href="acerto.html"><img src="japao.png" width="400" height="250"></a>
+<a href="erro.html"><img src="italia.png" width="400" height="250"></a>
+
+
+</center>
+
+</body>
+</html>
